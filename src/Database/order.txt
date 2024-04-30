@@ -1,0 +1,2 @@
+OrderID,OrderPlacementTime,OrderItemID,OrderAmount,OrderStatus,CustomerUserID,VendorUserID,ServiceType,TransactionID
+1,2023/12/01 23:27:31,1,13.5,pending,3,6,Delivery,T00002
